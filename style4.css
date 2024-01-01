@@ -1,0 +1,16 @@
+*{
+    background-color: black;
+}
+.a {
+    text-align: justify;
+    height: 95vh;
+    width: 95vw;
+    font-size: 7px;
+    font-weight: 900;
+    background: url(photo_2024-01-01_22-13-10.jpg);
+    background-size:contain;
+    color: transparent;
+    -webkit-background-clip: text;
+    line-height: 7px;
+    letter-spacing: 0;
+}
